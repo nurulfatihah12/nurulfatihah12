@@ -1,4 +1,26 @@
-## Hi there 👋
+<img src="nama_gambar.jpg" width="150" style="border-radius: 50%;">
+# Hi, saya Nurul Fatihah Binti Mohd Razali 👋
+
+## 👩‍💻 Saya seorang yang berminat dalam bidang pembangunan perisian dan teknologi. Saya sentiasa teruja untuk mempelajari perkara baharu dan bekerjasama dalam projek-projek menarik!
+
+- 🔭 Saya kini sedang bekerjasama untuk ...
+- 🌱 Saya sedang mempelajari ...
+- 👯 Saya terbuka untuk bekerjasama dalam ...
+- 💬 Tanya saya tentang ...
+- 📫 Cara menghubungi saya: **[E-mel Anda]**
+- ⚡ Fakta menarik: ...
+
+---
+
+## 🛠️ Kemahiran & Alat (Skills & Tools)
+- **Bahasa Pengaturcaraan:** HTML, CSS, JavaScript, Python
+- **Alat & Platform:** Git, GitHub, VS Code
+
+---
+
+## 🔗 Hubungi Saya
+- [LinkedIn](https://www.linkedin.com/in/username-anda)
+- [Portfolio/Laman Web](https://lamanwebanda.com)
 
 <!--
 **nurulfatihah12/nurulfatihah12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
